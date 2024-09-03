@@ -6,10 +6,14 @@
   - Filmmaking
   - History
 - 🌱 I’m currently learning ...
+  - Unity
+  - C#
+<!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+--->
+- 😄 Pronouns: He/Him
+<!--- - ⚡ Fun fact: ... --->
 
 <!---
 Bacalad/Bacalad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
