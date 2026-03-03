@@ -3,11 +3,13 @@
   - Game Dev
   - Game Design
   - Software Engineering
-  - Filmmaking
+  - Writing/Storytelling
   - History
+  - Music Theory / Music Production
 - 🌱 I’m currently learning ...
   - Unity
   - C#
+  - Go? (started and then got interrumpted by life and other hobbies :/)
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
