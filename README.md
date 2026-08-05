@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning ...
   - Unity
   - C#
+  - C++
   - Go? (started and then got interrumpted by life and other hobbies :/)
 <!--- 
 - 💞️ I’m looking to collaborate on ...
